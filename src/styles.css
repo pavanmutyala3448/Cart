@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #63cdda;
+  border-radius: 20px;
+  border: 5px solid #f8a5c2;
+}
